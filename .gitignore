@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Data / cache / results
+cache/
+*.pkl
+*.npy
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store

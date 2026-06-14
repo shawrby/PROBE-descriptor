@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "probe-descriptor"
+version = "1.0.0"
+description = "PROBE: Probabilistic Occupancy BEV Encoding for 3D Place Recognition"
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [
+    { name = "Jinseop Lee", email = "jinseop.llee@gmail.com" },
+]
+dependencies = [
+    "numpy",
+    "scipy",
+]
+
+[project.urls]
+Paper = "https://doi.org/10.1109/LRA.2026.3703245"
+Website = "https://sites.google.com/view/probe-pr"
+
+[tool.setuptools]
+packages = ["probe"]
