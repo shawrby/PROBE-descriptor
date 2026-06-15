@@ -123,11 +123,13 @@ If you use PROBE in your research, please cite our paper:
   title={PROBE: Probabilistic Occupancy BEV Encoding with Analytical Translation Robustness for 3D Place Recognition},
   author={Lee, Jinseop and Lee, Byoungho and Yoo, Gichul},
   journal={IEEE Robotics and Automation Letters},
+  pages={1--8},
   year={2026},
+  publisher={IEEE},
   doi={10.1109/LRA.2026.3703245}
 }
 ```
 
 ## 📑 License
 
-Released under the [MIT License](LICENSE). © 2026 Jinseop Lee.
+Released under the [BSD 3-Clause License](LICENSE). © 2026 Jinseop Lee.

@@ -8,6 +8,7 @@ version = "1.0.0"
 description = "PROBE: Probabilistic Occupancy BEV Encoding for 3D Place Recognition"
 readme = "README.md"
 requires-python = ">=3.8"
+license = { text = "BSD-3-Clause" }
 authors = [
     { name = "Jinseop Lee", email = "jinseop.llee@gmail.com" },
 ]
